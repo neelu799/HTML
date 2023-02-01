@@ -1,2 +1,2 @@
 # HTML
-Different types of patterns in java
+Creating web pages using html

@@ -1,0 +1,55 @@
+.container1
+{
+    height: 550px;
+    width: 100%;
+    background-color: rgb(200, 199, 199);
+}
+.A
+{
+    position: absolute;
+    top: 2%;
+    left: 17%;
+    display: flex;
+    
+}
+.B
+{
+    display: flex;
+    justify-content: center;
+}
+.box
+{
+    border: solid 2px black;
+    height: 300px;
+    width: 300px;
+}
+.a
+{ 
+    margin-top: 190px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.container2
+{
+    margin-top: 60px;
+}
+.b
+{ 
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.c
+{
+    margin-top: 30px; 
+    margin-left: 15px;
+    margin-right: 15px;
+}
+/*------------------------------------------------------------------------------*/
+img
+{
+    height: 300px;
+    width: 300px;
+}
+.text{
+    text-align: center;
+}
